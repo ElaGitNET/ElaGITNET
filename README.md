@@ -1,20 +1,28 @@
-### Hi there 👋
+## ElaGITNET
 
-**I know** 
-<p>
-  <img src="https://img.shields.io/badge/Python-ColourCode?logo=Python=ColorName&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/C-ColourCode?logo=C=ColorName&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/C++-ColourCode?logo=C++=ColorName&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/PHP-ColourCode?logo=PHP=ColorName&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/HTML5-ColourCode?logo=HTML5=ColorName&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/JavaScript-ColourCode?logo=JavaScript=ColorName&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/Bootstrap-ColourCode?logo=Bootstrap=ColorName&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/MySQL-ColourCode?logo=MySQL=ColorName&style=ShieldStyle" />
-</p>
 **General details**
+
 - 📫 How to reach me: Discord: ElaNetREMASTERED#8381
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like cats. Best animal fr 
 
+**I know** 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=Python=ColorName&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=C=ColorName&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=C++=ColorName&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=PHP=ColorName&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5=ColorName&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript=ColorName&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap=ColorName&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL=ColorName&style=ShieldStyle" />
+</p>
+
+**Familiar operating systems** 
+<p>
+    <img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows=ColorName&style=ShieldStyle" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux=ColorName&style=ShieldStyle" />
 
 [![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElaGITNET)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaGITNET)](https://github.com/anuraghazra/github-readme-stats)
