@@ -2,9 +2,9 @@
 
 **General details**
 
-- 📫 How to reach me: Discord: ElaNetREMASTERED#8997
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Cats are the best animal fr
+- Discord: ElaNetREMASTERED#8997
+- Pronouns: She/Her
+- Fun fact: Cats are the best animal fr
 
 **I know** 
 <p>
