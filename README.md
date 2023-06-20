@@ -2,7 +2,7 @@
 
 **General details**
 
-- Discord: ElaNetREMASTERED#8997
+- Discord: elanetv2
 - Pronouns: She/Her
 - Fun fact: Cats are the best animal fr
 
