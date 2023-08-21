@@ -2,9 +2,9 @@
 
 **General details**
 
-- Discord: elanetv2
 - Pronouns: She/Her
-- Fun fact: Cats are the best animal fr
+- About me: I like coffee and cats
+- Student
 
 **I know** 
 <p>
