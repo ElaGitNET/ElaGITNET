@@ -4,7 +4,7 @@
 
 - Pronouns: She/Her
 - About me: I like coffee and cats
-- Student
+- I usually upload stuff I made for fun
 
 **I know** 
 <p>
